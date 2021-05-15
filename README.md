@@ -12,5 +12,5 @@ Features:
 * Temperature and humidity readings plotted on Thingspeak and presented on web server
 * Video streaming on web server to enable remote monitoring of computer room
 
-Refer to below Youtube for demo and more details:
+Refer to my Youtube for demo and more details:
 https://youtu.be/ACgoLXXYYD4
